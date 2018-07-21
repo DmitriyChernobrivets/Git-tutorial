@@ -1,3 +1,5 @@
+
+<a href="https://github.com/DmitriyChernobrivets/test-repository/blob/master/Layer%2041%401x.png">
 # Day-2-Git
 * **git clone** - Клонує репозиторій
 * **git pull** - Стягує оновлення з репозиторію
