@@ -1,5 +1,5 @@
 
-<a href="https://dmitriychernobrivets.github.io/test-repository/Layer%2041%401x.png"></a>
+![](pic.png)
 # Day-2-Git
 * **git clone** - Клонує репозиторій
 * **git pull** - Стягує оновлення з репозиторію
